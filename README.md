@@ -19,13 +19,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to building cloud native data products.
+I am a highly skilled and motivated Data Engineer with a passion for transforming data into actionable insights. With a strong background in data architecture, ETL processes, and data warehousing, I excel in designing and maintaining robust data pipelines that drive informed decision-making within organizations. 
 
-- :zap: In my free time, I solve problems on Hackerrank and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sapatear)
+In my free time, I solve problems on Hackerrank and read tech articles.
 
 ---
 
@@ -53,10 +50,6 @@ I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SapateAniket&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-
